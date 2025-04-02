@@ -1,1 +1,1 @@
-创建了一个贪食蛇小游戏
+Created a greedy snake game for fun
